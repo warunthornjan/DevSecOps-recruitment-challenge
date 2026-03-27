@@ -9,3 +9,9 @@
   2.3 Scan with Gitleaks
   2.4 Alert
   2.5 Block
+
+3.
+  3.1 exit 1 for block  
+
+4.
+  4.1 custom rule or use github advance security
